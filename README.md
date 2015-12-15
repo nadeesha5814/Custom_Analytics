@@ -1,4 +1,4 @@
-# How to publish custom set of data from API Manager to WSO2 Business Activity Monitor
+# How to publish custom data from API Manager to WSO2 Business Activity Monitor
 
 This project contains the required project files to create a custom data publisher for WSO2 API Manager. 
 
